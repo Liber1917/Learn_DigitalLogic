@@ -8,11 +8,11 @@
 :vpi_module "C:\Software\DEVELO~1\iverilog\lib\ivl\v2005_math.vpi";
 :vpi_module "C:\Software\DEVELO~1\iverilog\lib\ivl\va_math.vpi";
 :vpi_module "C:\Software\DEVELO~1\iverilog\lib\ivl\v2009.vpi";
-S_00000170b3486510 .scope package, "$unit" "$unit" 2 1;
+S_0000023d5ac12c90 .scope package, "$unit" "$unit" 2 1;
  .timescale 0 0;
-S_00000170b34866a0 .scope module, "hello" "hello" 3 2;
+S_0000023d5ac12e20 .scope module, "hello" "hello" 3 2;
  .timescale 0 0;
-    .scope S_00000170b34866a0;
+    .scope S_0000023d5ac12e20;
 T_0 ;
     %vpi_call/w 3 4 "$display", "hello world" {0 0 0};
     %vpi_call/w 3 5 "$finish" {0 0 0};
