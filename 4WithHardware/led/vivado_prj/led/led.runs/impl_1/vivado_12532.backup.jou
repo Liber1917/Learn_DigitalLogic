@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Jun 19 18:27:33 2024
+# Process ID: 12532
+# Current directory: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/led/vivado_prj/led/led.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/led/vivado_prj/led/led.runs/impl_1/top.vdi
+# Journal file: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/led/vivado_prj/led/led.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
