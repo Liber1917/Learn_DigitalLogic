@@ -1,0 +1,1 @@
+.rtl_screen -top_module {led} -include_path {<E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/led/led_pango>} -design_files {<E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/led/led_pango/led.v|work>}

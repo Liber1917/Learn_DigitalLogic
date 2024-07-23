@@ -1,0 +1,17 @@
+
+Inputs and Outputs :
++-----------------------------------------------------------------------------------------------------------------+
+| Type       | File Name                                                                                         
++-----------------------------------------------------------------------------------------------------------------+
+| Input      | E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/led/led_pango/device_map/led_map.adf     
+|            | E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/led/led_pango/device_map/led.pcf         
+| Output     | E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/led/led_pango/place_route/prr.db         
+|            | E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/led/led_pango/place_route/led.prr        
++-----------------------------------------------------------------------------------------------------------------+
+
+
+Flow Command: pnr 
+Peak memory: 229 MB
+Total CPU time to pnr completion : 0h:0m:0s
+Process Total CPU time to pnr completion : 0h:0m:0s
+Total real time to pnr completion : 0h:0m:4s

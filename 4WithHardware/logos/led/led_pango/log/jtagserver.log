@@ -1,0 +1,303 @@
+[Info] [2024-7-23 10:42:28] /***************************Start jtagserver***************************/
+[Info] [2024-7-23 10:42:28] Path: E:/SoftWare/PDS/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-7-23 10:42:28] Version: 132111
+[Debug] [2024-7-23 10:42:31] Add a new user_thread, socket descriptor is 1296 user_thread id is 0000000000007104
+[Debug] [2024-7-23 10:42:31] After adding, map size is : 1
+[Debug] [2024-7-23 10:42:31] Add a new user_thread, socket descriptor is 1304 user_thread id is 0000000000007104
+[Debug] [2024-7-23 10:42:31] After adding, map size is : 2
+[Debug] [2024-7-23 10:42:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-7-23 10:42:31] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2024-7-23 10:42:31] IP address of connecting client is : ::ffff:127.0.0.1Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:42:31] _total_bytes_size : 160
+[Debug] [2024-7-23 10:42:31] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:42:31] _total_bytes_size : 96
+[Debug] [2024-7-23 10:42:31] cmd id :40010cmd name : get_cable_paras
+[Debug] [2024-7-23 10:42:33] cmd operation get_cable_paras releases locker
+[Debug] [2024-7-23 10:42:33] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:42:33] _total_bytes_size : 101
+[Debug] [2024-7-23 10:42:33] cmd id :20001cmd name : Open config cable
+[Debug] [2024-7-23 10:42:34] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:42:34] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:34] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:34] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:34] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:34] cmd operation Open config cable releases locker
+[Debug] [2024-7-23 10:42:55] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:42:55] _total_bytes_size : 2ba
+[Debug] [2024-7-23 10:42:55] cmd id :4e22cmd name : Program
+[Debug] [2024-7-23 10:42:56] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:42:56] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:56] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:56] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:56] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:42:56] begin to read back config registerregAddr is 4
+[Debug] [2024-7-23 10:42:56] progress bar is 6
+[Debug] [2024-7-23 10:42:56] progress bar is 10
+[Debug] [2024-7-23 10:42:56] progress bar is 15
+[Debug] [2024-7-23 10:42:56] progress bar is 20
+[Debug] [2024-7-23 10:42:56] progress bar is 25
+[Debug] [2024-7-23 10:42:56] progress bar is 30
+[Debug] [2024-7-23 10:42:56] progress bar is 35
+[Debug] [2024-7-23 10:42:56] progress bar is 40
+[Debug] [2024-7-23 10:42:56] progress bar is 45
+[Debug] [2024-7-23 10:42:56] progress bar is 50
+[Debug] [2024-7-23 10:42:56] progress bar is 55
+[Debug] [2024-7-23 10:42:56] progress bar is 60
+[Debug] [2024-7-23 10:42:56] progress bar is 65
+[Debug] [2024-7-23 10:42:56] progress bar is 70
+[Debug] [2024-7-23 10:42:56] progress bar is 75
+[Debug] [2024-7-23 10:42:57] progress bar is 80
+[Debug] [2024-7-23 10:42:57] progress bar is 85
+[Debug] [2024-7-23 10:42:57] progress bar is 90
+[Debug] [2024-7-23 10:42:57] progress bar is 95
+[Debug] [2024-7-23 10:42:57] progress bar is 100
+[Debug] [2024-7-23 10:42:57] the value in the status register is :2096288
+[Debug] [2024-7-23 10:42:57] cmd operation Program releases locker
+[Debug] [2024-7-23 10:46:43] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:46:43] _total_bytes_size : 723
+[Debug] [2024-7-23 10:46:43] cmd id :20300cmd name : Scan Outer SPI Flash
+[Debug] [2024-7-23 10:46:44] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:46:44] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:46:44] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:46:44] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:46:44] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:46:44] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:46:44] flash_id is c84018
+[Debug] [2024-7-23 10:46:44] cmd operation Scan Outer SPI Flash releases locker
+[Debug] [2024-7-23 10:47:02] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:47:02] _total_bytes_size : 46e
+[Debug] [2024-7-23 10:47:02] cmd id :4f4ecmd name : Erase Outer Flash
+[Debug] [2024-7-23 10:47:02] begin to operate flash: cmd id = 4f4e
+[Debug] [2024-7-23 10:47:02] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:47:02] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:02] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:02] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:02] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:02] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:47:02] flash_id is c84018
+[Debug] [2024-7-23 10:47:02] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:47:02] progress bar is 1
+[Debug] [2024-7-23 10:47:02] progress bar is 6
+[Debug] [2024-7-23 10:47:03] progress bar is 12
+[Error] [2024-7-23 10:47:03] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2024-7-23 10:47:03] progress bar is 18
+[Error] [2024-7-23 10:47:03] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2024-7-23 10:47:03] progress bar is 25
+[Error] [2024-7-23 10:47:03] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2024-7-23 10:47:03] progress bar is 31
+[Debug] [2024-7-23 10:47:03] progress bar is 37
+[Error] [2024-7-23 10:47:03] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2024-7-23 10:47:04] progress bar is 43
+[Debug] [2024-7-23 10:47:04] progress bar is 50
+[Debug] [2024-7-23 10:47:04] progress bar is 56
+[Debug] [2024-7-23 10:47:04] progress bar is 62
+[Debug] [2024-7-23 10:47:04] progress bar is 68
+[Debug] [2024-7-23 10:47:04] progress bar is 75
+[Debug] [2024-7-23 10:47:04] progress bar is 81
+[Debug] [2024-7-23 10:47:04] progress bar is 87
+[Debug] [2024-7-23 10:47:04] progress bar is 93
+[Debug] [2024-7-23 10:47:04] progress bar is 100
+[Debug] [2024-7-23 10:47:05] end to operate flash: cmd id = 20302
+[Debug] [2024-7-23 10:47:05] cmd operation Erase Outer Flash releases locker
+[Debug] [2024-7-23 10:47:05] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:47:05] _total_bytes_size : 1131
+[Debug] [2024-7-23 10:47:05] cmd id :20301cmd name : Program Outer Flash
+[Debug] [2024-7-23 10:47:05] begin to operate flash: cmd id = 20301
+[Debug] [2024-7-23 10:47:05] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:47:05] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:05] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:05] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:05] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:05] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:47:05] flash_id is c84018
+[Debug] [2024-7-23 10:47:05] The value of GigaDevice status register 1 is 0x
+[Debug] [2024-7-23 10:47:05] progress bar is 1
+[Debug] [2024-7-23 10:47:06] progress bar is 6
+[Debug] [2024-7-23 10:47:07] progress bar is 10
+[Debug] [2024-7-23 10:47:08] progress bar is 15
+[Debug] [2024-7-23 10:47:09] progress bar is 20
+[Debug] [2024-7-23 10:47:09] progress bar is 25
+[Debug] [2024-7-23 10:47:10] progress bar is 30
+[Debug] [2024-7-23 10:47:11] progress bar is 35
+[Debug] [2024-7-23 10:47:12] progress bar is 40
+[Debug] [2024-7-23 10:47:13] progress bar is 45
+[Debug] [2024-7-23 10:47:14] progress bar is 50
+[Debug] [2024-7-23 10:47:14] progress bar is 55
+[Debug] [2024-7-23 10:47:15] progress bar is 60
+[Debug] [2024-7-23 10:47:16] progress bar is 65
+[Debug] [2024-7-23 10:47:17] progress bar is 70
+[Debug] [2024-7-23 10:47:18] progress bar is 75
+[Debug] [2024-7-23 10:47:18] progress bar is 80
+[Debug] [2024-7-23 10:47:19] progress bar is 85
+[Debug] [2024-7-23 10:47:20] progress bar is 90
+[Debug] [2024-7-23 10:47:21] progress bar is 95
+[Debug] [2024-7-23 10:47:22] progress bar is 100
+[Debug] [2024-7-23 10:47:22] end to operate flash: cmd id = 20301
+[Debug] [2024-7-23 10:47:22] cmd operation Program Outer Flash releases locker
+[Debug] [2024-7-23 10:47:22] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:47:22] _total_bytes_size : 1129
+[Debug] [2024-7-23 10:47:22] cmd id :20303cmd name : Verify Outer Flash
+[Debug] [2024-7-23 10:47:22] begin to operate flash: cmd id = 20303
+[Debug] [2024-7-23 10:47:22] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:47:22] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:22] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:22] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:22] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:22] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:47:22] flash_id is c84018
+[Debug] [2024-7-23 10:47:22] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:47:22] progress bar is 1
+[Debug] [2024-7-23 10:47:22] progress bar is 6
+[Debug] [2024-7-23 10:47:22] progress bar is 10
+[Debug] [2024-7-23 10:47:22] progress bar is 15
+[Debug] [2024-7-23 10:47:22] progress bar is 20
+[Debug] [2024-7-23 10:47:23] progress bar is 25
+[Debug] [2024-7-23 10:47:23] progress bar is 30
+[Debug] [2024-7-23 10:47:23] progress bar is 35
+[Debug] [2024-7-23 10:47:23] progress bar is 40
+[Debug] [2024-7-23 10:47:23] progress bar is 45
+[Debug] [2024-7-23 10:47:23] progress bar is 50
+[Debug] [2024-7-23 10:47:23] progress bar is 55
+[Debug] [2024-7-23 10:47:23] progress bar is 60
+[Debug] [2024-7-23 10:47:23] progress bar is 65
+[Debug] [2024-7-23 10:47:23] progress bar is 70
+[Debug] [2024-7-23 10:47:23] progress bar is 75
+[Debug] [2024-7-23 10:47:23] progress bar is 80
+[Debug] [2024-7-23 10:47:23] progress bar is 85
+[Debug] [2024-7-23 10:47:23] progress bar is 90
+[Debug] [2024-7-23 10:47:23] progress bar is 95
+[Debug] [2024-7-23 10:47:23] progress bar is 100
+[Debug] [2024-7-23 10:47:24] end to operate flash: cmd id = 20303
+[Debug] [2024-7-23 10:47:24] cmd operation Verify Outer Flash releases locker
+[Debug] [2024-7-23 10:47:39] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:47:39] _total_bytes_size : 1134
+[Debug] [2024-7-23 10:47:39] cmd id :20302cmd name : Erase Outer Flash
+[Debug] [2024-7-23 10:47:39] begin to operate flash: cmd id = 20302
+[Debug] [2024-7-23 10:47:40] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:47:40] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:40] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:40] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:40] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:47:40] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:47:40] flash_id is c84018
+[Debug] [2024-7-23 10:47:40] the value in the status register is :1ffca0
+[Debug] [2024-7-23 10:47:40] progress bar is 1
+[Debug] [2024-7-23 10:47:40] progress bar is 6
+[Debug] [2024-7-23 10:47:40] progress bar is 12
+[Debug] [2024-7-23 10:47:40] progress bar is 18
+[Debug] [2024-7-23 10:47:40] progress bar is 25
+[Debug] [2024-7-23 10:47:40] progress bar is 31
+[Debug] [2024-7-23 10:47:41] progress bar is 37
+[Debug] [2024-7-23 10:47:41] progress bar is 43
+[Debug] [2024-7-23 10:47:41] progress bar is 50
+[Debug] [2024-7-23 10:47:41] progress bar is 56
+[Debug] [2024-7-23 10:47:41] progress bar is 62
+[Debug] [2024-7-23 10:47:41] progress bar is 68
+[Debug] [2024-7-23 10:47:41] progress bar is 75
+[Debug] [2024-7-23 10:47:41] progress bar is 81
+[Debug] [2024-7-23 10:47:41] progress bar is 87
+[Debug] [2024-7-23 10:47:42] progress bar is 93
+[Debug] [2024-7-23 10:47:42] progress bar is 100
+[Debug] [2024-7-23 10:47:42] end to operate flash: cmd id = 20302
+[Debug] [2024-7-23 10:47:42] cmd operation Erase Outer Flash releases locker
+[Debug] [2024-7-23 10:48:07] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:48:07] _total_bytes_size : 1134
+[Debug] [2024-7-23 10:48:07] cmd id :20302cmd name : Erase Outer Flash
+[Debug] [2024-7-23 10:48:07] begin to operate flash: cmd id = 20302
+[Debug] [2024-7-23 10:48:07] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:48:07] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:07] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:07] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:07] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:07] the value in the status register is :100c80
+[Debug] [2024-7-23 10:48:07] flash_id is c84018
+[Debug] [2024-7-23 10:48:07] the value in the status register is :100c80
+[Debug] [2024-7-23 10:48:07] progress bar is 1
+[Debug] [2024-7-23 10:48:08] progress bar is 6
+[Debug] [2024-7-23 10:48:08] progress bar is 12
+[Debug] [2024-7-23 10:48:08] progress bar is 18
+[Debug] [2024-7-23 10:48:08] progress bar is 25
+[Debug] [2024-7-23 10:48:08] progress bar is 31
+[Debug] [2024-7-23 10:48:08] progress bar is 37
+[Debug] [2024-7-23 10:48:08] progress bar is 43
+[Debug] [2024-7-23 10:48:08] progress bar is 50
+[Debug] [2024-7-23 10:48:08] progress bar is 56
+[Debug] [2024-7-23 10:48:09] progress bar is 62
+[Debug] [2024-7-23 10:48:09] progress bar is 68
+[Debug] [2024-7-23 10:48:09] progress bar is 75
+[Debug] [2024-7-23 10:48:09] progress bar is 81
+[Debug] [2024-7-23 10:48:09] progress bar is 87
+[Debug] [2024-7-23 10:48:09] progress bar is 93
+[Debug] [2024-7-23 10:48:09] progress bar is 100
+[Debug] [2024-7-23 10:48:09] end to operate flash: cmd id = 20302
+[Debug] [2024-7-23 10:48:09] cmd operation Erase Outer Flash releases locker
+[Debug] [2024-7-23 10:48:09] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:48:09] _total_bytes_size : 1131
+[Debug] [2024-7-23 10:48:09] cmd id :20301cmd name : Program Outer Flash
+[Debug] [2024-7-23 10:48:09] begin to operate flash: cmd id = 20301
+[Debug] [2024-7-23 10:48:10] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:48:10] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:10] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:10] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:10] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:10] the value in the status register is :100c80
+[Debug] [2024-7-23 10:48:10] flash_id is c84018
+[Debug] [2024-7-23 10:48:10] The value of GigaDevice status register 1 is 0x
+[Debug] [2024-7-23 10:48:10] progress bar is 1
+[Debug] [2024-7-23 10:48:11] progress bar is 6
+[Debug] [2024-7-23 10:48:11] progress bar is 10
+[Debug] [2024-7-23 10:48:12] progress bar is 15
+[Debug] [2024-7-23 10:48:13] progress bar is 20
+[Debug] [2024-7-23 10:48:14] progress bar is 25
+[Debug] [2024-7-23 10:48:15] progress bar is 30
+[Debug] [2024-7-23 10:48:15] progress bar is 35
+[Debug] [2024-7-23 10:48:16] progress bar is 40
+[Debug] [2024-7-23 10:48:17] progress bar is 45
+[Debug] [2024-7-23 10:48:18] progress bar is 50
+[Debug] [2024-7-23 10:48:19] progress bar is 55
+[Debug] [2024-7-23 10:48:19] progress bar is 60
+[Debug] [2024-7-23 10:48:20] progress bar is 65
+[Debug] [2024-7-23 10:48:21] progress bar is 70
+[Debug] [2024-7-23 10:48:22] progress bar is 75
+[Debug] [2024-7-23 10:48:23] progress bar is 80
+[Debug] [2024-7-23 10:48:24] progress bar is 85
+[Debug] [2024-7-23 10:48:25] progress bar is 90
+[Debug] [2024-7-23 10:48:25] progress bar is 95
+[Debug] [2024-7-23 10:48:26] progress bar is 100
+[Debug] [2024-7-23 10:48:27] end to operate flash: cmd id = 20301
+[Debug] [2024-7-23 10:48:27] cmd operation Program Outer Flash releases locker
+[Debug] [2024-7-23 10:48:27] Remove the header data from the client, index : 0
+[Debug] [2024-7-23 10:48:27] _total_bytes_size : 1129
+[Debug] [2024-7-23 10:48:27] cmd id :20303cmd name : Verify Outer Flash
+[Debug] [2024-7-23 10:48:27] begin to operate flash: cmd id = 20303
+[Debug] [2024-7-23 10:48:27] the idcode from the scanning is: 0x10511899
+[Debug] [2024-7-23 10:48:27] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:27] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:27] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:27] the idcode from the scanning is: 0x0
+[Debug] [2024-7-23 10:48:27] the value in the status register is :100c80
+[Debug] [2024-7-23 10:48:27] flash_id is c84018
+[Debug] [2024-7-23 10:48:27] the value in the status register is :100c80
+[Debug] [2024-7-23 10:48:27] progress bar is 1
+[Debug] [2024-7-23 10:48:27] progress bar is 6
+[Debug] [2024-7-23 10:48:27] progress bar is 10
+[Debug] [2024-7-23 10:48:27] progress bar is 15
+[Debug] [2024-7-23 10:48:27] progress bar is 20
+[Debug] [2024-7-23 10:48:27] progress bar is 25
+[Debug] [2024-7-23 10:48:27] progress bar is 30
+[Debug] [2024-7-23 10:48:27] progress bar is 35
+[Debug] [2024-7-23 10:48:27] progress bar is 40
+[Debug] [2024-7-23 10:48:28] progress bar is 45
+[Debug] [2024-7-23 10:48:28] progress bar is 50
+[Debug] [2024-7-23 10:48:28] progress bar is 55
+[Debug] [2024-7-23 10:48:28] progress bar is 60
+[Debug] [2024-7-23 10:48:28] progress bar is 65
+[Debug] [2024-7-23 10:48:28] progress bar is 70
+[Debug] [2024-7-23 10:48:28] progress bar is 75
+[Debug] [2024-7-23 10:48:28] progress bar is 80
+[Debug] [2024-7-23 10:48:28] progress bar is 85
+[Debug] [2024-7-23 10:48:28] progress bar is 90
+[Debug] [2024-7-23 10:48:28] progress bar is 95
+[Debug] [2024-7-23 10:48:28] progress bar is 100
+[Debug] [2024-7-23 10:48:28] end to operate flash: cmd id = 20303
+[Debug] [2024-7-23 10:48:28] cmd operation Verify Outer Flash releases locker
