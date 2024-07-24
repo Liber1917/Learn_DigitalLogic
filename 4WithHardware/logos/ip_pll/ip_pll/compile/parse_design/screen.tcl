@@ -1,0 +1,1 @@
+.rtl_screen -top_module {ip_pll} -include_path {<E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/ip_pll/ip_pll>} -design_files {<E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/ip_pll/ip_pll/ip_pll.v|work><E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/ip_pll/ip_pll/ipcore/pll_clk/pll_clk.v|work>}
