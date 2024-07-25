@@ -1,0 +1,39 @@
+##### Written on 2024/07/25 15:19:55 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL25G-6MBG324
+
+Top Module : 
+	dual_ad
+
+Constraint File(s) : 
+	E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad/dual_ad.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 0 warning(s), out of 149 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

@@ -1,0 +1,424 @@
+[Info] [2024-7-25 11:47:50] /***************************Start Configuration***************************/
+[Info] [2024-7-25 11:47:50] Path: E:/SoftWare/PDS/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-7-25 11:47:50] Version: 132111
+[Info] [2024-7-25 11:47:51] Current Path: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad
+[Info] [2024-7-25 11:47:51] PDS Dir Path: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad
+[Info] [2024-7-25 11:47:57] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-25 11:47:57] Client Local host name:1917Redbanner
+[Debug] [2024-7-25 11:47:57] Client Local Address:26.72.101.115
+[Debug] [2024-7-25 11:47:57] Client Local Address:169.254.91.53
+[Debug] [2024-7-25 11:47:57] Client Local Address:169.254.216.215
+[Debug] [2024-7-25 11:47:57] Client Local Address:58.154.169.81
+[Debug] [2024-7-25 11:47:57] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-25 11:47:57] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-25 11:47:57] Finish.
+[Info] [2024-7-25 11:47:57] Connect server succeeded
+[Debug] [2024-7-25 11:47:57] Send RPC:1
+[Debug] [2024-7-25 11:47:57] Send cmd [check version information:40004] OK
+[Debug] [2024-7-25 11:47:59] Send RPC:2
+[Debug] [2024-7-25 11:47:59] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-25 11:47:59] Begin to send initialize chain cmd...
+[Debug] [2024-7-25 11:47:59] Send RPC:3
+[Debug] [2024-7-25 11:47:59] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-25 11:47:59] End to send initialize chain cmd.
+[Debug] [2024-7-25 11:47:59] COMMAND[check version information] execute successfully, takes 1.7 secs.
+[Debug] [2024-7-25 11:48:01] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2024-7-25 11:48:02] begin the exec of open cable cmd...
+[Debug] [2024-7-25 11:48:02] Begin to deal with chain from server...
+[Debug] [2024-7-25 11:48:02] Begin to set user chain...
+[Debug] [2024-7-25 11:48:02] End to set user chain.
+[Debug] [2024-7-25 11:48:02] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 11:48:02] End to update graphic item and tree item ...
+[Info] [2024-7-25 11:48:04] set OpenLastPath: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad/generate_bitstream/dual_ad.sbit
+[Debug] [2024-7-25 11:48:04] begin to get device info from CFG file...
+[Debug] [2024-7-25 11:48:04] end to get device info from CFG file...
+[Debug] [2024-7-25 11:48:04] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 11:48:04] End to update graphic item and tree item ...
+[Debug] [2024-7-25 11:48:04] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 11:48:04] End to update graphic item and tree item ...
+[Debug] [2024-7-25 11:48:04] End to deal wiht chain from server.
+[Debug] [2024-7-25 11:48:04] end the exec of open cable cmd.
+[Debug] [2024-7-25 11:48:04] COMMAND[Open config cable] execute successfully, takes 5.4 secs.
+[Debug] [2024-7-25 11:48:06] Begin to send programming cmd...
+[Debug] [2024-7-25 11:48:06] Send RPC:4
+[Debug] [2024-7-25 11:48:06] Begin to send program data.
+[Debug] [2024-7-25 11:48:06] End to send program data.
+[Debug] [2024-7-25 11:48:06] Send cmd [Program:20002] OK
+[Debug] [2024-7-25 11:48:07] The value of Progress is 6
+[Debug] [2024-7-25 11:48:07] The value of Progress is 10
+[Debug] [2024-7-25 11:48:07] The value of Progress is 15
+[Debug] [2024-7-25 11:48:07] The value of Progress is 20
+[Debug] [2024-7-25 11:48:07] The value of Progress is 25
+[Debug] [2024-7-25 11:48:07] The value of Progress is 30
+[Debug] [2024-7-25 11:48:07] The value of Progress is 35
+[Debug] [2024-7-25 11:48:07] The value of Progress is 40
+[Debug] [2024-7-25 11:48:07] The value of Progress is 45
+[Debug] [2024-7-25 11:48:07] The value of Progress is 50
+[Debug] [2024-7-25 11:48:07] The value of Progress is 55
+[Debug] [2024-7-25 11:48:07] The value of Progress is 60
+[Debug] [2024-7-25 11:48:07] The value of Progress is 65
+[Debug] [2024-7-25 11:48:07] The value of Progress is 70
+[Debug] [2024-7-25 11:48:07] The value of Progress is 75
+[Debug] [2024-7-25 11:48:07] The value of Progress is 80
+[Debug] [2024-7-25 11:48:07] The value of Progress is 85
+[Debug] [2024-7-25 11:48:08] The value of Progress is 90
+[Debug] [2024-7-25 11:48:08] The value of Progress is 95
+[Debug] [2024-7-25 11:48:08] The value of Progress is 100
+[Debug] [2024-7-25 11:48:08] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2024-7-25 11:48:08] End to send programming cmd.
+[Debug] [2024-7-25 11:48:36] begin to add pango device by bitstream file.
+[Debug] [2024-7-25 11:48:38] bin file name is empty and end add pango device.
+[Debug] [2024-7-25 12:00:02] Begin to send verify cmd in BS mode...
+[Debug] [2024-7-25 12:00:02] Begin to check mask file.
+[Debug] [2024-7-25 12:00:02] End to check mask file.
+[Debug] [2024-7-25 12:00:02] Send RPC:5
+[Debug] [2024-7-25 12:00:02] Begin to send verify data.
+[Debug] [2024-7-25 12:00:02] End to send verify data.
+[Debug] [2024-7-25 12:00:02] Send cmd [Verify:20004] OK
+[Debug] [2024-7-25 12:00:03] The value of Progress is 6
+[Debug] [2024-7-25 12:00:03] The value of Progress is 10
+[Debug] [2024-7-25 12:00:03] The value of Progress is 15
+[Debug] [2024-7-25 12:00:03] The value of Progress is 20
+[Debug] [2024-7-25 12:00:03] The value of Progress is 25
+[Debug] [2024-7-25 12:00:03] The value of Progress is 30
+[Debug] [2024-7-25 12:00:03] The value of Progress is 35
+[Debug] [2024-7-25 12:00:03] The value of Progress is 40
+[Debug] [2024-7-25 12:00:03] The value of Progress is 45
+[Debug] [2024-7-25 12:00:03] The value of Progress is 50
+[Debug] [2024-7-25 12:00:03] The value of Progress is 55
+[Debug] [2024-7-25 12:00:03] The value of Progress is 60
+[Debug] [2024-7-25 12:00:03] The value of Progress is 65
+[Debug] [2024-7-25 12:00:03] The value of Progress is 70
+[Debug] [2024-7-25 12:00:03] The value of Progress is 75
+[Debug] [2024-7-25 12:00:03] The value of Progress is 80
+[Debug] [2024-7-25 12:00:03] The value of Progress is 85
+[Debug] [2024-7-25 12:00:04] The value of Progress is 90
+[Debug] [2024-7-25 12:00:04] The value of Progress is 95
+[Debug] [2024-7-25 12:00:04] The value of Progress is 100
+[Debug] [2024-7-25 12:00:04] COMMAND[Verify] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-25 12:00:04] End to send verify cmd in BS mode.
+[Debug] [2024-7-25 12:00:06] Begin to send programming cmd...
+[Debug] [2024-7-25 12:00:06] Send RPC:6
+[Debug] [2024-7-25 12:00:06] Begin to send program data.
+[Debug] [2024-7-25 12:00:06] End to send program data.
+[Debug] [2024-7-25 12:00:06] Send cmd [Program:20002] OK
+[Debug] [2024-7-25 12:00:06] The value of Progress is 6
+[Debug] [2024-7-25 12:00:06] The value of Progress is 10
+[Debug] [2024-7-25 12:00:06] The value of Progress is 15
+[Debug] [2024-7-25 12:00:06] The value of Progress is 20
+[Debug] [2024-7-25 12:00:07] The value of Progress is 25
+[Debug] [2024-7-25 12:00:07] The value of Progress is 30
+[Debug] [2024-7-25 12:00:07] The value of Progress is 35
+[Debug] [2024-7-25 12:00:07] The value of Progress is 40
+[Debug] [2024-7-25 12:00:07] The value of Progress is 45
+[Debug] [2024-7-25 12:00:07] The value of Progress is 50
+[Debug] [2024-7-25 12:00:07] The value of Progress is 55
+[Debug] [2024-7-25 12:00:07] The value of Progress is 60
+[Debug] [2024-7-25 12:00:07] The value of Progress is 65
+[Debug] [2024-7-25 12:00:07] The value of Progress is 70
+[Debug] [2024-7-25 12:00:07] The value of Progress is 75
+[Debug] [2024-7-25 12:00:07] The value of Progress is 80
+[Debug] [2024-7-25 12:00:07] The value of Progress is 85
+[Debug] [2024-7-25 12:00:07] The value of Progress is 90
+[Debug] [2024-7-25 12:00:07] The value of Progress is 95
+[Debug] [2024-7-25 12:00:07] The value of Progress is 100
+[Debug] [2024-7-25 12:00:07] COMMAND[Program] execute successfully, takes 1.4 secs.
+[Debug] [2024-7-25 12:00:07] End to send programming cmd.
+[Debug] [2024-7-25 12:00:11] Begin to send test chain integrity cmd.
+[Debug] [2024-7-25 12:00:11] Send RPC:7
+[Debug] [2024-7-25 12:00:11] Send cmd [Jtag chain integrity test:20400] OK
+[Debug] [2024-7-25 12:00:11] End to send test chain integrity cmd.
+[Debug] [2024-7-25 12:00:11] Show Info: The total device number in the chain is : 1
+[Debug] [2024-7-25 12:00:11] COMMAND[Jtag chain integrity test] execute successfully, takes 0.7 secs.
+[Debug] [2024-7-25 12:00:22] Begin to send one step create svf file cmd...
+[Debug] [2024-7-25 12:00:27] End to send one step create svf file cmd.
+[Debug] [2024-7-25 12:00:30] Begin to Converte file.
+[Debug] [2024-7-25 12:02:32] begin to parse sfc file.
+[Debug] [2024-7-25 12:02:32] begin to get device info from CFG file...
+[Debug] [2024-7-25 12:02:32] end to get device info from CFG file...
+[Debug] [2024-7-25 12:02:32] begin to get device info from CFG file...
+[Debug] [2024-7-25 12:02:32] end to get device info from CFG file...
+[Debug] [2024-7-25 12:02:32] end to parse sfc file.
+[Debug] [2024-7-25 12:02:33] End to Converte file.
+[Debug] [2024-7-25 12:02:45] Begin to send scan outer flash cmd...
+[Debug] [2024-7-25 12:02:45] Send RPC:8
+[Debug] [2024-7-25 12:02:45] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2024-7-25 12:02:45] End to send scan outer flash cmd.
+[Debug] [2024-7-25 12:02:46] begin to exec scan jtag flash cmd...
+[Debug] [2024-7-25 12:02:46] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2024-7-25 12:02:46] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 12:02:46] End to update graphic item and tree item ...
+[Info] [2024-7-25 12:02:48] set OpenLastPath: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad/generate_bitstream/dual_ad.sfc
+[Debug] [2024-7-25 12:02:48] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-25 12:02:48] end to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-25 12:02:48] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 12:02:48] End to update graphic item and tree item ...
+[Debug] [2024-7-25 12:02:48] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2024-7-25 12:02:48] end to exec scan jtag flash cmd...
+[Debug] [2024-7-25 12:02:48] COMMAND[Scan Outer SPI Flash] execute successfully, takes 3.3 secs.
+[Debug] [2024-7-25 12:03:01] begin to send promgram jtag flash cmd.
+[Debug] [2024-7-25 12:03:01] begin to send jtag flash erase cmd
+[Debug] [2024-7-25 12:03:01] Send RPC:9
+[Debug] [2024-7-25 12:03:01] Begin to send embed flash erase data.
+[Debug] [2024-7-25 12:03:01] Begin to send flash erase data.
+[Debug] [2024-7-25 12:03:01] End to send flash erase data.
+[Debug] [2024-7-25 12:03:01] End to send embed flash erase data.
+[Debug] [2024-7-25 12:03:01] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2024-7-25 12:03:01] The value of Progress is 1
+[Debug] [2024-7-25 12:03:01] The value of Progress is 6
+[Debug] [2024-7-25 12:03:01] The value of Progress is 12
+[Debug] [2024-7-25 12:03:01] The value of Progress is 18
+[Debug] [2024-7-25 12:03:02] The value of Progress is 25
+[Debug] [2024-7-25 12:03:02] The value of Progress is 31
+[Debug] [2024-7-25 12:03:02] The value of Progress is 37
+[Debug] [2024-7-25 12:03:02] The value of Progress is 43
+[Debug] [2024-7-25 12:03:02] The value of Progress is 50
+[Debug] [2024-7-25 12:03:02] The value of Progress is 56
+[Debug] [2024-7-25 12:03:02] The value of Progress is 62
+[Debug] [2024-7-25 12:03:02] The value of Progress is 68
+[Debug] [2024-7-25 12:03:02] The value of Progress is 75
+[Debug] [2024-7-25 12:03:03] The value of Progress is 81
+[Debug] [2024-7-25 12:03:03] The value of Progress is 87
+[Debug] [2024-7-25 12:03:03] The value of Progress is 93
+[Debug] [2024-7-25 12:03:03] The value of Progress is 100
+[Debug] [2024-7-25 12:03:03] COMMAND[Erase Outer Flash] execute finish, takes 2.5 secs.
+[Debug] [2024-7-25 12:03:03] end to send jtag flash erase cmd.
+[Debug] [2024-7-25 12:03:03] Send RPC:10
+[Debug] [2024-7-25 12:03:03] Begin to send jtag flash program data.
+[Debug] [2024-7-25 12:03:03] Begin to send flash program data.
+[Debug] [2024-7-25 12:03:03] End to send flash program data.
+[Debug] [2024-7-25 12:03:03] End to send embed flash program data.
+[Debug] [2024-7-25 12:03:03] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2024-7-25 12:03:04] The value of Progress is 1
+[Debug] [2024-7-25 12:03:05] The value of Progress is 6
+[Debug] [2024-7-25 12:03:05] The value of Progress is 10
+[Debug] [2024-7-25 12:03:06] The value of Progress is 15
+[Debug] [2024-7-25 12:03:07] The value of Progress is 20
+[Debug] [2024-7-25 12:03:08] The value of Progress is 25
+[Debug] [2024-7-25 12:03:09] The value of Progress is 30
+[Debug] [2024-7-25 12:03:09] The value of Progress is 35
+[Debug] [2024-7-25 12:03:10] The value of Progress is 40
+[Debug] [2024-7-25 12:03:11] The value of Progress is 45
+[Debug] [2024-7-25 12:03:12] The value of Progress is 50
+[Debug] [2024-7-25 12:03:13] The value of Progress is 55
+[Debug] [2024-7-25 12:03:13] The value of Progress is 60
+[Debug] [2024-7-25 12:03:14] The value of Progress is 65
+[Debug] [2024-7-25 12:03:15] The value of Progress is 70
+[Debug] [2024-7-25 12:03:16] The value of Progress is 75
+[Debug] [2024-7-25 12:03:17] The value of Progress is 80
+[Debug] [2024-7-25 12:03:17] The value of Progress is 85
+[Debug] [2024-7-25 12:03:18] The value of Progress is 90
+[Debug] [2024-7-25 12:03:19] The value of Progress is 95
+[Debug] [2024-7-25 12:03:20] The value of Progress is 100
+[Debug] [2024-7-25 12:03:20] COMMAND[Program Outer Flash] execute finish, takes 16.9 secs.
+[Debug] [2024-7-25 12:03:20] begin to send jtag flash verify cmd
+[Debug] [2024-7-25 12:03:20] Send RPC:11
+[Debug] [2024-7-25 12:03:20] Begin to send embed flash verify data.
+[Debug] [2024-7-25 12:03:20] Begin to send flash verify data.
+[Debug] [2024-7-25 12:03:20] End to send flash verify data.
+[Debug] [2024-7-25 12:03:20] End to send embed flash verify data.
+[Debug] [2024-7-25 12:03:20] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2024-7-25 12:03:20] The value of Progress is 1
+[Debug] [2024-7-25 12:03:20] The value of Progress is 6
+[Debug] [2024-7-25 12:03:20] The value of Progress is 10
+[Debug] [2024-7-25 12:03:21] The value of Progress is 15
+[Debug] [2024-7-25 12:03:21] The value of Progress is 20
+[Debug] [2024-7-25 12:03:21] The value of Progress is 25
+[Debug] [2024-7-25 12:03:21] The value of Progress is 30
+[Debug] [2024-7-25 12:03:21] The value of Progress is 35
+[Debug] [2024-7-25 12:03:21] The value of Progress is 40
+[Debug] [2024-7-25 12:03:21] The value of Progress is 45
+[Debug] [2024-7-25 12:03:21] The value of Progress is 50
+[Debug] [2024-7-25 12:03:21] The value of Progress is 55
+[Debug] [2024-7-25 12:03:21] The value of Progress is 60
+[Debug] [2024-7-25 12:03:21] The value of Progress is 65
+[Debug] [2024-7-25 12:03:21] The value of Progress is 70
+[Debug] [2024-7-25 12:03:21] The value of Progress is 75
+[Debug] [2024-7-25 12:03:21] The value of Progress is 80
+[Debug] [2024-7-25 12:03:21] The value of Progress is 85
+[Debug] [2024-7-25 12:03:21] The value of Progress is 90
+[Debug] [2024-7-25 12:03:21] The value of Progress is 95
+[Debug] [2024-7-25 12:03:21] The value of Progress is 100
+[Debug] [2024-7-25 12:03:22] COMMAND[Verify Outer Flash] execute successfully, takes 1.7 secs.
+[Debug] [2024-7-25 12:03:22] end to send jtag flash verify cmd
+[Debug] [2024-7-25 12:03:22] end to send jtag flash program cmd.
+[Info] [2024-7-25 12:03:25] /***************************End Configration***************************/
+[Info] [2024-7-25 13:51:45] /***************************Start Configuration***************************/
+[Info] [2024-7-25 13:51:45] Path: E:/SoftWare/PDS/PDS_2022.2-SP4.2-ads/bin
+[Info] [2024-7-25 13:51:45] Version: 132111
+[Info] [2024-7-25 13:51:46] Current Path: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad
+[Info] [2024-7-25 13:51:46] PDS Dir Path: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad
+[Info] [2024-7-25 13:51:49] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-25 13:51:49] Client Local host name:1917Redbanner
+[Debug] [2024-7-25 13:51:49] Client Local Address:26.72.101.115
+[Debug] [2024-7-25 13:51:49] Client Local Address:169.254.91.53
+[Debug] [2024-7-25 13:51:49] Client Local Address:169.254.216.215
+[Debug] [2024-7-25 13:51:49] Client Local Address:58.154.169.81
+[Debug] [2024-7-25 13:51:49] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-25 13:51:50] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-25 13:51:50] Finish.
+[Info] [2024-7-25 13:51:50] Connect server succeeded
+[Debug] [2024-7-25 13:51:50] Send RPC:1
+[Debug] [2024-7-25 13:51:50] Send cmd [check version information:40004] OK
+[Debug] [2024-7-25 13:51:52] Send RPC:2
+[Debug] [2024-7-25 13:51:52] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-25 13:51:52] Begin to send initialize chain cmd...
+[Debug] [2024-7-25 13:51:52] Send RPC:3
+[Debug] [2024-7-25 13:51:52] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-25 13:51:52] End to send initialize chain cmd.
+[Debug] [2024-7-25 13:51:52] COMMAND[check version information] execute successfully, takes 1.6 secs.
+[Debug] [2024-7-25 13:51:53] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2024-7-25 13:51:54] begin the exec of open cable cmd...
+[Debug] [2024-7-25 13:51:54] Begin to deal with chain from server...
+[Debug] [2024-7-25 13:51:54] Begin to set user chain...
+[Debug] [2024-7-25 13:51:54] End to set user chain.
+[Debug] [2024-7-25 13:51:54] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 13:51:54] End to update graphic item and tree item ...
+[Info] [2024-7-25 13:51:56] set OpenLastPath: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad/generate_bitstream/dual_ad.sbit
+[Debug] [2024-7-25 13:51:56] begin to get device info from CFG file...
+[Debug] [2024-7-25 13:51:56] end to get device info from CFG file...
+[Debug] [2024-7-25 13:51:56] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 13:51:56] End to update graphic item and tree item ...
+[Debug] [2024-7-25 13:51:56] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 13:51:56] End to update graphic item and tree item ...
+[Debug] [2024-7-25 13:51:56] End to deal wiht chain from server.
+[Debug] [2024-7-25 13:51:56] end the exec of open cable cmd.
+[Debug] [2024-7-25 13:51:56] COMMAND[Open config cable] execute successfully, takes 4.9 secs.
+[Debug] [2024-7-25 13:51:58] Begin to send programming cmd...
+[Debug] [2024-7-25 13:51:58] Send RPC:4
+[Debug] [2024-7-25 13:51:58] Begin to send program data.
+[Debug] [2024-7-25 13:51:58] End to send program data.
+[Debug] [2024-7-25 13:51:58] Send cmd [Program:20002] OK
+[Debug] [2024-7-25 13:51:58] The value of Progress is 6
+[Debug] [2024-7-25 13:51:58] The value of Progress is 10
+[Debug] [2024-7-25 13:51:58] The value of Progress is 15
+[Debug] [2024-7-25 13:51:58] The value of Progress is 20
+[Debug] [2024-7-25 13:51:58] The value of Progress is 25
+[Debug] [2024-7-25 13:51:58] The value of Progress is 30
+[Debug] [2024-7-25 13:51:58] The value of Progress is 35
+[Debug] [2024-7-25 13:51:58] The value of Progress is 40
+[Debug] [2024-7-25 13:51:58] The value of Progress is 45
+[Debug] [2024-7-25 13:51:58] The value of Progress is 50
+[Debug] [2024-7-25 13:51:58] The value of Progress is 55
+[Debug] [2024-7-25 13:51:58] The value of Progress is 60
+[Debug] [2024-7-25 13:51:59] The value of Progress is 65
+[Debug] [2024-7-25 13:51:59] The value of Progress is 70
+[Debug] [2024-7-25 13:51:59] The value of Progress is 75
+[Debug] [2024-7-25 13:51:59] The value of Progress is 80
+[Debug] [2024-7-25 13:51:59] The value of Progress is 85
+[Debug] [2024-7-25 13:51:59] The value of Progress is 90
+[Debug] [2024-7-25 13:51:59] The value of Progress is 95
+[Debug] [2024-7-25 13:51:59] The value of Progress is 100
+[Debug] [2024-7-25 13:51:59] COMMAND[Program] execute successfully, takes 1.5 secs.
+[Debug] [2024-7-25 13:51:59] End to send programming cmd.
+[Debug] [2024-7-25 13:52:02] Begin to Converte file.
+[Debug] [2024-7-25 13:52:19] begin to parse sfc file.
+[Debug] [2024-7-25 13:52:19] begin to get device info from CFG file...
+[Debug] [2024-7-25 13:52:19] end to get device info from CFG file...
+[Debug] [2024-7-25 13:52:19] begin to get device info from CFG file...
+[Debug] [2024-7-25 13:52:19] end to get device info from CFG file...
+[Debug] [2024-7-25 13:52:19] end to parse sfc file.
+[Debug] [2024-7-25 13:52:20] End to Converte file.
+[Debug] [2024-7-25 13:52:32] Begin to send scan outer flash cmd...
+[Debug] [2024-7-25 13:52:32] Send RPC:5
+[Debug] [2024-7-25 13:52:32] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2024-7-25 13:52:32] End to send scan outer flash cmd.
+[Debug] [2024-7-25 13:52:33] begin to exec scan jtag flash cmd...
+[Debug] [2024-7-25 13:52:33] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2024-7-25 13:52:33] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 13:52:33] End to update graphic item and tree item ...
+[Info] [2024-7-25 13:52:35] set OpenLastPath: E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad/generate_bitstream/dual_ad.sfc
+[Debug] [2024-7-25 13:52:35] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-25 13:52:35] end to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-25 13:52:35] Begin to update graphic item and tree item ...
+[Debug] [2024-7-25 13:52:35] End to update graphic item and tree item ...
+[Debug] [2024-7-25 13:52:35] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2024-7-25 13:52:35] end to exec scan jtag flash cmd...
+[Debug] [2024-7-25 13:52:35] COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.9 secs.
+[Debug] [2024-7-25 13:52:36] begin to send promgram jtag flash cmd.
+[Debug] [2024-7-25 13:52:36] begin to send jtag flash erase cmd
+[Debug] [2024-7-25 13:52:36] Send RPC:6
+[Debug] [2024-7-25 13:52:36] Begin to send embed flash erase data.
+[Debug] [2024-7-25 13:52:36] Begin to send flash erase data.
+[Debug] [2024-7-25 13:52:36] End to send flash erase data.
+[Debug] [2024-7-25 13:52:36] End to send embed flash erase data.
+[Debug] [2024-7-25 13:52:36] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2024-7-25 13:52:37] The value of Progress is 1
+[Debug] [2024-7-25 13:52:37] The value of Progress is 6
+[Debug] [2024-7-25 13:52:37] The value of Progress is 12
+[Debug] [2024-7-25 13:52:37] The value of Progress is 18
+[Debug] [2024-7-25 13:52:37] The value of Progress is 25
+[Debug] [2024-7-25 13:52:37] The value of Progress is 31
+[Debug] [2024-7-25 13:52:37] The value of Progress is 37
+[Debug] [2024-7-25 13:52:38] The value of Progress is 43
+[Debug] [2024-7-25 13:52:38] The value of Progress is 50
+[Debug] [2024-7-25 13:52:38] The value of Progress is 56
+[Debug] [2024-7-25 13:52:38] The value of Progress is 62
+[Debug] [2024-7-25 13:52:38] The value of Progress is 68
+[Debug] [2024-7-25 13:52:38] The value of Progress is 75
+[Debug] [2024-7-25 13:52:38] The value of Progress is 81
+[Debug] [2024-7-25 13:52:38] The value of Progress is 87
+[Debug] [2024-7-25 13:52:38] The value of Progress is 93
+[Debug] [2024-7-25 13:52:38] The value of Progress is 100
+[Debug] [2024-7-25 13:52:39] COMMAND[Erase Outer Flash] execute finish, takes 2.5 secs.
+[Debug] [2024-7-25 13:52:39] end to send jtag flash erase cmd.
+[Debug] [2024-7-25 13:52:39] Send RPC:7
+[Debug] [2024-7-25 13:52:39] Begin to send jtag flash program data.
+[Debug] [2024-7-25 13:52:39] Begin to send flash program data.
+[Debug] [2024-7-25 13:52:39] End to send flash program data.
+[Debug] [2024-7-25 13:52:39] End to send embed flash program data.
+[Debug] [2024-7-25 13:52:39] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2024-7-25 13:52:39] The value of Progress is 1
+[Debug] [2024-7-25 13:52:40] The value of Progress is 6
+[Debug] [2024-7-25 13:52:41] The value of Progress is 10
+[Debug] [2024-7-25 13:52:42] The value of Progress is 15
+[Debug] [2024-7-25 13:52:42] The value of Progress is 20
+[Debug] [2024-7-25 13:52:43] The value of Progress is 25
+[Debug] [2024-7-25 13:52:44] The value of Progress is 30
+[Debug] [2024-7-25 13:52:45] The value of Progress is 35
+[Debug] [2024-7-25 13:52:46] The value of Progress is 40
+[Debug] [2024-7-25 13:52:47] The value of Progress is 45
+[Debug] [2024-7-25 13:52:48] The value of Progress is 50
+[Debug] [2024-7-25 13:52:49] The value of Progress is 55
+[Debug] [2024-7-25 13:52:50] The value of Progress is 60
+[Debug] [2024-7-25 13:52:51] The value of Progress is 65
+[Debug] [2024-7-25 13:52:52] The value of Progress is 70
+[Debug] [2024-7-25 13:52:53] The value of Progress is 75
+[Debug] [2024-7-25 13:52:54] The value of Progress is 80
+[Debug] [2024-7-25 13:52:55] The value of Progress is 85
+[Debug] [2024-7-25 13:52:56] The value of Progress is 90
+[Debug] [2024-7-25 13:52:57] The value of Progress is 95
+[Debug] [2024-7-25 13:52:59] The value of Progress is 100
+[Debug] [2024-7-25 13:52:59] COMMAND[Program Outer Flash] execute finish, takes 19.9 secs.
+[Debug] [2024-7-25 13:52:59] begin to send jtag flash verify cmd
+[Debug] [2024-7-25 13:52:59] Send RPC:8
+[Debug] [2024-7-25 13:52:59] Begin to send embed flash verify data.
+[Debug] [2024-7-25 13:52:59] Begin to send flash verify data.
+[Debug] [2024-7-25 13:52:59] End to send flash verify data.
+[Debug] [2024-7-25 13:52:59] End to send embed flash verify data.
+[Debug] [2024-7-25 13:52:59] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2024-7-25 13:52:59] The value of Progress is 1
+[Debug] [2024-7-25 13:52:59] The value of Progress is 6
+[Debug] [2024-7-25 13:52:59] The value of Progress is 10
+[Debug] [2024-7-25 13:52:59] The value of Progress is 15
+[Debug] [2024-7-25 13:52:59] The value of Progress is 20
+[Debug] [2024-7-25 13:52:59] The value of Progress is 25
+[Debug] [2024-7-25 13:52:59] The value of Progress is 30
+[Debug] [2024-7-25 13:52:59] The value of Progress is 35
+[Debug] [2024-7-25 13:53:00] The value of Progress is 40
+[Debug] [2024-7-25 13:53:00] The value of Progress is 45
+[Debug] [2024-7-25 13:53:00] The value of Progress is 50
+[Debug] [2024-7-25 13:53:00] The value of Progress is 55
+[Debug] [2024-7-25 13:53:00] The value of Progress is 60
+[Debug] [2024-7-25 13:53:00] The value of Progress is 65
+[Debug] [2024-7-25 13:53:00] The value of Progress is 70
+[Debug] [2024-7-25 13:53:00] The value of Progress is 75
+[Debug] [2024-7-25 13:53:00] The value of Progress is 80
+[Debug] [2024-7-25 13:53:00] The value of Progress is 85
+[Debug] [2024-7-25 13:53:00] The value of Progress is 90
+[Debug] [2024-7-25 13:53:00] The value of Progress is 95
+[Debug] [2024-7-25 13:53:00] The value of Progress is 100
+[Debug] [2024-7-25 13:53:00] COMMAND[Verify Outer Flash] execute successfully, takes 1.7 secs.
+[Debug] [2024-7-25 13:53:00] end to send jtag flash verify cmd
+[Debug] [2024-7-25 13:53:00] end to send jtag flash program cmd.
+[Info] [2024-7-25 14:07:01] /***************************End Configration***************************/

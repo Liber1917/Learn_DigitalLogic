@@ -1,0 +1,1 @@
+.rtl_screen -top_module {dual_ad} -include_path {<E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad>} -design_files {<E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad/ipcore/pll_clk/pll_clk.v|work><E:/NEU/FPGA/Learn/Learn_DigitalLogic/4WithHardware/logos/Dual_AD/dual_ad/dual_ad.v|work>}
